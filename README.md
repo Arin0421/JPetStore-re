@@ -13,7 +13,7 @@ MyBatis에서 Spring을 기반으로 제작한 JPetStore를 재공학
   - 회원 가입 시 입력한 메일로 자동 전송
   
 ### 사용 기술
-*Spring, Maven, Mybatis, MySql
+* Spring, Maven, Mybatis, MySql
 
 
 ### 더  자세한 설명은 https://sites.google.com/view/jpet-bonbang/main 을 방문해 주세요!!
