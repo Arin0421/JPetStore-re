@@ -1,7 +1,7 @@
 ## 소프트웨어공학(2021-2)
 MyBatis에서 Spring을 기반으로 제작한 JPetStore를 재공학
 
-기본적인 설명은 http://mybatis.org/jpetstore-6/ko/ 에 잘 정리되어 있다.
+JPetStore에 대한 정보는 http://mybatis.org/jpetstore-6/ko/ 에서 얻을 수 있습니다.:)
 
 ### 프로젝트 주요 기능
 * 입양(판매) 수를 기준으로 가장 인기있는 pet 정렬
